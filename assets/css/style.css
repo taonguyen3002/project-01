@@ -116,6 +116,7 @@ header .account .btn {
   line-height: 1.78;
 }
 .head-content .info .cta {
+  cursor: pointer;
   border: none;
   background: #1ebfc1;
   width: 186px;
@@ -142,8 +143,8 @@ header .account .btn {
 }
 .head-content .info .row .play-button {
   border-left: 14px solid #1ebfc1;
-  border-bottom: 14px solid transparent;
-  border-top: 14px solid transparent;
+  border-bottom: 12px solid transparent;
+  border-top: 12px solid transparent;
 }
 .head-content .image {
   min-width: 641px;
